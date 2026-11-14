@@ -9,7 +9,7 @@ const SUPABASE_ANON_KEY = 'sb_publishable_K2bL9fvwQbz4zDlhRSPBpA_d65ANGnt';
 // Physics
 const GRAVITY = 1200;        // gravity (px/s^2)
 const SPEED = 180;           // walking speed (px/s)
-const JUMP_V = -385;         // jump force (negative = up)
+const JUMP_V = -785;         // jump force (negative = up)
 const COYOTE_S = 0.09;       // coyote time: grace period after leaving the ledge (s)
 const BUFFER_S = 0.12;       // input buffering: jump pressed slightly early (s)
 const PLUG_LOCK = 900;       // ms to wait after pulling a plug
